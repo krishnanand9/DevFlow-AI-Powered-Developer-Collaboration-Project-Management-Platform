@@ -1129,5 +1129,4 @@ Specialization: Artificial Intelligence & Machine Learning
 
 # 📄 License
 
-This project is developed for educational, portfolio, and demonstration purposes.#   D e v F l o w - A I - P o w e r e d - D e v e l o p e r - C o l l a b o r a t i o n - P r o j e c t - M a n a g e m e n t - P l a t f o r m  
- 
+This project is developed for educational, portfolio, and demonstration purposes.
